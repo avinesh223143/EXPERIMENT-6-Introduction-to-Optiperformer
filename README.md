@@ -1,4 +1,3 @@
-
 # Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
@@ -67,7 +66,8 @@ The system includes:
 ---
 
 ## Tabulation:
-![WhatsApp Image 2025-11-16 at 22 27 05_cf7dec1f](https://github.com/user-attachments/assets/e13951f2-7ba7-44d1-a100-eec0576e2329)
+
+![WhatsApp Image 2025-11-17 at 00 15 25_73a40f11](https://github.com/user-attachments/assets/bf1429b9-eaa1-4978-9743-5461c48560fb)
 
 ## CIRCUIT:
 <img width="917" height="458" alt="image" src="https://github.com/user-attachments/assets/d8236fd4-fb08-4e8e-bfa6-bd4f3bb5a3ed" />
