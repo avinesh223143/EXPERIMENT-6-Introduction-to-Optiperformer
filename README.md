@@ -6,7 +6,7 @@ Download and install OptiPerformer software on your computer and run a sample fi
 
 ---
 
-## Overview
+## Overview:
 
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
@@ -25,7 +25,7 @@ The system includes:
 
 ---
 
-## Instructions
+## Instructions:
 
 1. Download and install OptiPerformer from [optiwave.com](https://optiwave.com).  
 2. Copy the `Introduction_OptiPerformer.osp` file to your PC.  
@@ -57,7 +57,7 @@ The system includes:
 
 ---
 
-## Report
+## Report:
 
 1. Cover sheet (as per attached example).  
 2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
@@ -66,29 +66,18 @@ The system includes:
 
 ---
 
-## Tabulation
+## Tabulation:
+![WhatsApp Image 2025-11-16 at 22 27 05_cf7dec1f](https://github.com/user-attachments/assets/e13951f2-7ba7-44d1-a100-eec0576e2329)
 
-**Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-
----
-
-## CIRCUIT
+## CIRCUIT:
 <img width="917" height="458" alt="image" src="https://github.com/user-attachments/assets/d8236fd4-fb08-4e8e-bfa6-bd4f3bb5a3ed" />
 
-## Graphs
+## Graphs:
 <img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/1bcc4fdc-ff06-4287-8a0a-a30a15025fe6" />
 <img width="1072" height="797" alt="image" src="https://github.com/user-attachments/assets/3e201d28-b982-4750-800c-fb1a257f6d5f" />
 
 
-## RESULT
+## RESULT:
 
 The optical communication system was successfully simulated using OptiPerformer. As the fiber length increased from 50 km to 150 km, the following trends were observed:
 
