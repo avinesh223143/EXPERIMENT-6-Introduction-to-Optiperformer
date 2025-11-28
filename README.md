@@ -63,6 +63,7 @@ Factor” and the “Min BER”.
 <img width="917" height="458" alt="image" src="https://github.com/user-attachments/assets/d8236fd4-fb08-4e8e-bfa6-bd4f3bb5a3ed" />
 
 ## Graphs:
+<img width="1912" height="1100" alt="513039598-566a99a6-5102-48bc-9e9a-da70cd664c39" src="https://github.com/user-attachments/assets/78ceedc2-10b4-4f7f-a502-0a3b7496b98d" />
 <img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/1bcc4fdc-ff06-4287-8a0a-a30a15025fe6" />
 <img width="1072" height="797" alt="image" src="https://github.com/user-attachments/assets/3e201d28-b982-4750-800c-fb1a257f6d5f" />
 
