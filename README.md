@@ -6,33 +6,12 @@ Download and install OptiPerformer software on your computer and run a sample fi
 ## EQUIPMENTS REQUIRED:
 Optisystem Software – OptiPerformer 22.0
 
-## Introduction to OptiPerformer 
+## THEORY:
+Optiwave introduces OptiPerformer, a free photonic design automation tool which harnesses the full power of OptiSystem and creates specific dynamic design scenarios which can be used by students.
+In this exercise, you will download and install OptiPerformer on your PC/laptop. Your license of OptiPerformer will be capable of loading and running OptiSystem simulations prepared for this course.
+Once you have installed OptiPerformer, you can copy the first file (named: ‘Introduction_OptiPerformer.osp’) to your PC and run the simulation. The first file is a basic fiber optic system consisting of a transmitter, a fiber and a receiver. The system is “instrumented” with an optical power meter at the input to receiver (or the output of the fiber) and a bit error rate (BER) analyzer.
 
-## Objective
-Download and install OptiPerformer software on your computer and run a sample file.
-
----
-
-## Overview:
-
-Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
-
-In this exercise, you will:
-- Download and install OptiPerformer on your PC/laptop.
-- Use your license to load and run OptiSystem simulations prepared for this course.
-
-The first simulation file (`Introduction_OptiPerformer.osp`) models a basic fiber optic system consisting of:
-- A transmitter
-- A fiber
-- A receiver
-
-The system includes:
-- An optical power meter at the receiver input (fiber output)
-- A Bit Error Rate (BER) analyzer
-
----
-
-## Instructions:
+## PROCEDURE:
 
 1. Download and install OptiPerformer from the optiwave.com web site.
 2.	Copy the ‘Introduction_OptiPerformer.osp’ file to your PC
